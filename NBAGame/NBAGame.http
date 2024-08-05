@@ -1,0 +1,6 @@
+@NBAGame_HostAddress = http://localhost:5134
+
+GET {{NBAGame_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
